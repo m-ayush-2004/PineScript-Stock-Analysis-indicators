@@ -1,0 +1,1 @@
+This folder contains all the images of different analysis that this indicator can perform on the stocks
